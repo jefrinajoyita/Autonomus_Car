@@ -3,12 +3,11 @@
 An autonomous car is a car incorporating vehicular automation which is capable of sensing its environment and moving safely no human input.
 
 
-# Download this Udacity's Self-Driving Car Simulator:
-
-
 # STEPS to run this project:
 
 ## STEP 01: 
+
+Download this Udacity's Self-Driving Car Simulator
 Clone the repository
 
 ```bash
